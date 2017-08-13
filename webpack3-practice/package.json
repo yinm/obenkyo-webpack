@@ -1,0 +1,15 @@
+{
+  "name": "webpack3-practice",
+  "version": "1.0.0",
+  "description": "[最新版で学ぶwebpack 3入門 – JavaScript開発で人気のバンドルツール](https://ics.media/entry/12140)をやります。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.5.4"
+  }
+}
