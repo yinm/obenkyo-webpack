@@ -9,13 +9,11 @@ module.exports = {
     filename: 'bundle.js'
   },
   module: {
-    // Loaderの設定
     rules: [
       {
-        // 対象となるファイルの拡張子
-        test: /\.css/,
-        loaders: ['style-loader', 'css-loader']
-      },
+        test: /\.scss/,
+        loaders: ['style-loader', 'css-loader', 'sass-loader']
+      }
     ]
   }
 };
