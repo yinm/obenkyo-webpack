@@ -1,5 +1,5 @@
-// import {hello} from './sub';
+import {hello} from './sub';
 // import '../style/style.css';
-import '../sass-style/style.scss';
+// import '../sass-style/style.scss';
 
-// hello();
+hello();
