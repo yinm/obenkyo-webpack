@@ -1,1 +1,1 @@
-# obenkyo-webpack
+webpackのお勉強です。

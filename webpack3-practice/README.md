@@ -1,0 +1,1 @@
+[最新版で学ぶwebpack 3入門 – JavaScript開発で人気のバンドルツール](https://ics.media/entry/12140)をやります。
